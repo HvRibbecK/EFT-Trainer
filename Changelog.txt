@@ -1,0 +1,23 @@
+﻿---Ideas for new version:---
+
+Hotkeys in MainMenu (zB Start Button)
+Kill List? PMC, Scav, Scav Player?
+Instant notifier
+
+
+
+---Changelog:---
+
+Version 1.1.1:
+    -Little changes in code
+    -GitHub Release
+
+Version 1.1:
+    -Added crosshair overlay (thanks to gmastergreatee)
+    -Added Hotkeys
+    -Improved kill confirmer
+    -Slightly new design
+
+Version 1.0:
+    -First public release
+    -More features are coming soon!
